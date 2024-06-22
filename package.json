@@ -1,0 +1,29 @@
+{
+  "name": "hexo-sync-issues",
+  "version": "1.0.2",
+  "description": "A Hexo plugin designed to automatically generate github issues when create new post.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/promonkeyli/hexo-sync-issues"
+  },
+  "keywords": [
+    "hexo",
+    "plugins",
+    "blog",
+    "issues"
+  ],
+  "author": "promonkeyli",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^21.0.0",
+    "hexo": "^7.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.8"
+  }
+}
