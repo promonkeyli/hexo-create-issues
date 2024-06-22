@@ -1,9 +1,9 @@
-### <p style="text-align: center"></p>hexo-sync-issues：A Hexo plugins
-#### <p style="text-align: center">Designed to automatically generate github issues when create new post.</p>
+### <p align="center">hexo-sync-issues: A Hexo plugins</p>
+### <p align="center">Designed to automatically generate github issues when create new post.</p>
 
-#### Documentation
+### Documentation
 
-------
+---
 
 ##### install
 
