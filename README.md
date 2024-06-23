@@ -1,12 +1,12 @@
-### <p align="center">hexo-sync-issues: A Hexo plugins</p>
-### <p align="center">Designed to automatically generate github issues when create new post.</p>
+### <p align="center">hexo-create-issues: A Hexo plugin</p>
+### <p align="center">A Hexo plugin designed to automatically create github issues when create new post.</p>
 
 ---
 
 ##### install
 
 ```she
-npm i hexo-sync-issues
+npm i hexo-create-issues
 ```
 
 ##### setup
@@ -15,7 +15,7 @@ npm i hexo-sync-issues
 
 ```shel
 plugins:
-  - hexo-sync-issues
+  - hexo-create-issues
 
 gitalk_create_issues:
   token: XXX # github token
@@ -27,7 +27,7 @@ gitalk_create_issues:
 
 ```shell
 plugins:
-  - hexo-sync-issues
+  - hexo-create-issues
 
 gitalk_create_issues:
   token: qwqwdscfdvrbjndjfkbndcsxdvdv
