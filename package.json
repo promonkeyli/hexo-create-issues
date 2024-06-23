@@ -1,6 +1,6 @@
 {
   "name": "hexo-create-issues",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hexo plugin designed to automatically create github issues when create new post.",
   "main": "index.js",
   "type": "commonjs",
